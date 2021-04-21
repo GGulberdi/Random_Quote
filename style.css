@@ -1,0 +1,44 @@
+
+
+body{
+    background-color:#00FF99;
+    align-content:center;
+  }
+  
+  .quote-box{
+    width:30%;
+    height:auto;
+    border:3px solid gray;
+    text-align:center;
+    background-color:#996600;
+  margin:100px auto;  
+    justify-content: space-between;
+    padding: 30px 35px;
+    
+    
+  }
+  
+  h1{
+    border-bottom:solid 5px white;
+    color:white;
+    
+    
+  }
+  .text{
+    font-size:23px;
+    color:white;
+  }
+  
+  .author{
+    font-size:23px;
+    color:white;
+  }
+  
+  .tweet{
+    font-size:10px;
+    color:white;
+  }
+  .btn new{
+    font-size:25px;
+    weight:bold;
+  }
